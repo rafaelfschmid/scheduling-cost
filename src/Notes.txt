@@ -1,0 +1,15 @@
+Anotações:
+
+Implementações Sequenciais
+
+indorder.cu
+1) Recebe como parâmetro o tempo que cada máquina usa para processar uma tarefa.
+2) Recebe como parâmetro o custo por unidade de tempo de cada máquina.
+
+
+minmin.cu
+1) Atribuir as menores tarefas na máquinas mais baratas (para enchê-la o máximo possível).
+
+
+maxmin.cu
+1) Atribuir as maiores tarefas nas máquinas mais baratas (conforme for cabendo).
